@@ -1,1 +1,1 @@
-location for the conky.conf file: /home/[user]/config/conky/
+location for the conky.conf file: /home/[user]/.config/conky/
